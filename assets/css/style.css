@@ -1,0 +1,244 @@
+    
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 15px;
+}
+.container{
+    width:100%;
+    margin:0 auto;
+}
+.header-section{
+    overflow: hidden;
+}
+.logo-container{
+    width: 50%;
+    float: left;
+
+}
+.search-section{
+    width: 50%;
+    float: left;
+    margin-top: 1%;
+}
+
+.header-section .logo-container h1{
+    text-transform: uppercase;
+    font-size: 38px;
+    margin:0;
+}
+.search-form-class{
+    float: right;
+}
+.search-btn-class{
+    background: transparent;
+    border: 2px solid #555;
+}
+nav {
+    padding: 0 5px;
+    overflow: hidden;
+    border:1px solid #555;
+}
+nav ul{
+    padding:0;
+    overflow: hidden;
+}
+nav ul li{
+    list-style: none;
+    width:calc(100% / 6);
+    float: left;
+}
+nav ul li a{
+    color: black;
+text-decoration: none;
+text-transform: capitalize;
+border-right: 1px solid #555;
+}
+.hero-section{
+    margin-top: 2%;
+}
+.current-section{
+    width: 77%;
+    margin-right: 4%;
+}
+.visitor-section{
+    width: 19%;
+    
+}
+.hero-section h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+.hero-section div{
+    border: 1px solid #555;
+    padding: 5% 0;
+    float: left;
+    box-sizing: border-box;
+}
+.main-section{
+	margin-top: 19%;
+}
+.service-section{
+	width: 77%;
+	margin-right: 4%;
+}
+.watch-section{
+	width: 19%;
+}
+.main-section h3{
+	text-transform: capitalize;
+	text-align: center;
+}
+.main-section div{
+	border: 1px solid #555;
+	padding: 5% 0;
+	float: left;
+	box-sizing: border-box;
+}
+.center-section{
+    margin-top: 39%; 
+}
+.upcoming-section{
+    width: 77%;
+    margin-right: 4%;
+}
+.ministry-section{
+    width: 19%;
+    float: right;
+}
+.center-section h3{
+    text-align: center;
+    text-transform: capitalize;
+}
+.center-section div{
+    border: 1px solid #555;
+    padding: 1% 0;
+    float: left;
+    box-sizing: border-box;
+}
+.bottom-section{
+}
+.title-section{
+    width: 77%;
+    float: left;
+}
+.title-section h6{
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+.img-section{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.para-section{
+    width: 80%;
+    margin-left: 25%;
+    float: right;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 18%;
+}
+
+.img-section h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+.bottom-section .img-section{
+    border: 1px solid #555;
+    padding: 3% 0;
+    box-sizing: border-box;
+    margin-right: 80%;
+    float: left;
+}
+.comment-section{
+    float: left;
+}
+.comment-section h6{
+    font-size: 26px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    border-right: 2px solid #555;
+}
+.read-section{
+    float: left;
+}
+.read-section h6{
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 26px;
+}
+.bottom-section1{
+    margin-top:35%;
+}
+.title-section1{
+    width: 77%;
+    float: left;
+    margin-right: 32%;
+}
+.title-section1 h6{
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+.img-section1{
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.para-section1{
+    width: 80%;
+    margin-left: 25%;
+    float: right;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 50%;
+}
+
+.img-section1 h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+.bottom-section1 .img-section1{
+    border: 1px solid #555;
+    padding: 3% 0;
+    box-sizing: border-box;
+    margin-right: 80%;
+    float: left;
+}
+.comment-section1{
+    float: left;
+}
+.comment-section1 h6{
+    font-size: 26px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    border-right: 2px solid #555;
+}
+.read-section1{
+    float: left;
+}
+.read-section1 h6{
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-size: 26px;
+}
+.end-section h3{
+    text-transform: capitalize;
+    text-align: center;
+}
+.footer-section{
+    margin-top: 115%;
+}
+.footer{
+    border: 1px solid #555;
+}
+.footer h3{
+    text-align: center;
+    text-transform: capitalize;
+}
